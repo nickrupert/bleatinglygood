@@ -1,6 +1,7 @@
 <html>
 <head>
 <title>BleatinglyGood</title>
+<link type="text/css" rel="stylesheet" href="stylesheet.css" />
 </head>
 <body>
 
