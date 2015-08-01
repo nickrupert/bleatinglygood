@@ -10,7 +10,7 @@
 <form action="index.php" method="post">
     Your String <br />
     <input class="form-control input-lg" type="text" name="string">
-    <br /> The Eradicandum! <br />
+    <br /> The Eradicandum!!!*! <br />
     <input class="form-control input-lg" type="text" name="deleted">
     <br />
     <input type="submit">
