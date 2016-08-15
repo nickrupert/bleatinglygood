@@ -20,8 +20,16 @@
 <?php
     $snack = $_POST["string"];
     echo $snack;
+
+    $delendum = $_POST["deleted"];
+
+    str_replace($delendum, '', $snack);
+
+
+
     echo $_POST["deleted"];
     echo "<br />";
+    echo $snack;
     
 ?>
 
