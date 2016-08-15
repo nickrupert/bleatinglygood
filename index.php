@@ -5,7 +5,7 @@
 </head>
 
 <body>
-<h1> The string element deleter! </h1>
+<h1> The string element deleter! 2.0 </h1>
 
 <form action="index.php" method="post">
     Your String <br />
