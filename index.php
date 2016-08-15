@@ -23,13 +23,13 @@
 
     $delendum = $_POST["deleted"];
 
-    str_replace($delendum, '', $snack);
+    $snack2 = str_replace($delendum, '', $snack);
 
 
 
     echo $_POST["deleted"];
     echo "<br />";
-    echo $snack;
+    echo $snack2;
     
 ?>
 
